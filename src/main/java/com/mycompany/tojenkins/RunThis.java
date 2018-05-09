@@ -14,6 +14,7 @@ public class RunThis {
     public static void main(String []args){
         System.out.println("só vim dizer yau");
 	System.out.println("teste");
-	System.out.println("ola2");
+	System.out.println("to teste");
+
     }
 }
