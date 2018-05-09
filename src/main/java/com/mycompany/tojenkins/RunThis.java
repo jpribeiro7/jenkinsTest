@@ -17,5 +17,10 @@ public class RunThis {
 	System.out.println("to teste");
 	System.out.println("oal");
 	String a = "ola";
+
+
+	for(int i=0;i<3;i++){
+		System.out.println("Agora devia dar");
+	}
     }
 }
