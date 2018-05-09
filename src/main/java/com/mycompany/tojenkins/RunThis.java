@@ -16,5 +16,6 @@ public class RunThis {
 	System.out.println("teste");
 	System.out.println("to teste");
 	System.out.println("oal");
+	String a = "ola";
     }
 }
