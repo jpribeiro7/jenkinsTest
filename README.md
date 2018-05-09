@@ -1,3 +1,3 @@
 # jenkinsTest
 
-This should trigger build
+Build must be triggered now
