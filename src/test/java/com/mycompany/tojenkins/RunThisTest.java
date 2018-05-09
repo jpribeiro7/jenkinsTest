@@ -46,7 +46,7 @@ public class RunThisTest {
         String[] args = null;
         RunThis.main(args);
         // TODO review the generated test code and remove the default call to fail.
-        assertTrue(true);
+        assertTrue(false);
     }
     
 }
