@@ -1,3 +1,3 @@
 # jenkinsTest
 
-Build must be triggered now
+No way jenkins does not build now
